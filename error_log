@@ -1,0 +1,84 @@
+[05-Jul-2018 11:16:21 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[05-Jul-2018 11:16:27 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[05-Jul-2018 11:16:37 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[05-Jul-2018 11:17:03 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[05-Jul-2018 15:48:25 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[13-Jul-2018 16:52:38 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[13-Jul-2018 16:52:53 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[28-Jul-2018 14:46:24 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[21-Aug-2018 23:24:49 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[21-Aug-2018 23:24:54 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[21-Aug-2018 23:25:02 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[21-Aug-2018 23:25:23 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[21-Aug-2018 23:28:02 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[21-Aug-2018 23:31:59 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[25-Aug-2018 09:17:05 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[25-Aug-2018 21:21:53 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/faceso/public_html/customer/peash/login.php on line 19
+[09-Oct-2018 14:59:27 UTC] PHP Warning:  POST Content-Length of 21376279 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Oct-2018 15:12:04 UTC] PHP Warning:  POST Content-Length of 21376279 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Oct-2018 07:12:07 UTC] PHP Warning:  POST Content-Length of 21376279 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Oct-2018 15:23:36 UTC] PHP Warning:  POST Content-Length of 21458403 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Oct-2018 15:22:14 UTC] PHP Warning:  POST Content-Length of 21516548 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Jan-2021 15:29:20 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'faceso_admin'@'localhost' (using password: YES) in /home/faceso/public_html/customer/peash/includes/config.php on line 6
+[23-Jan-2021 15:29:20 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/faceso/public_html/customer/peash/includes/config.php on line 7
+[11-Mar-2021 20:05:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'faceso_admin'@'localhost' (using password: YES) in /home/faceso/public_html/customer/peash/includes/config.php on line 6
+[11-Mar-2021 20:05:53 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/faceso/public_html/customer/peash/includes/config.php on line 7
+[11-Mar-2021 20:06:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'faceso_admin'@'localhost' (using password: YES) in /home/faceso/public_html/peash/includes/config.php on line 6
+[11-Mar-2021 20:06:16 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/faceso/public_html/peash/includes/config.php on line 7
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: subtotal in /home/faceso/public_html/peash/pos_print.php on line 314
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: discount in /home/faceso/public_html/peash/pos_print.php on line 320
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/pos_print.php on line 323
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/pos_print.php on line 323
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/pos_print.php on line 336
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/pos_print.php on line 348
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: payment in /home/faceso/public_html/peash/pos_print.php on line 348
+[29-Mar-2021 08:46:12 UTC] PHP Notice:  Undefined variable: balance in /home/faceso/public_html/peash/pos_print.php on line 351
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: subtotal in /home/faceso/public_html/peash/pos_print.php on line 314
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: discount in /home/faceso/public_html/peash/pos_print.php on line 320
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/pos_print.php on line 323
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/pos_print.php on line 323
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/pos_print.php on line 336
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/pos_print.php on line 348
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: payment in /home/faceso/public_html/peash/pos_print.php on line 348
+[06-Jun-2022 13:52:03 UTC] PHP Notice:  Undefined variable: balance in /home/faceso/public_html/peash/pos_print.php on line 351
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: subtotal in /home/faceso/public_html/peash/pos_print.php on line 314
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: discount in /home/faceso/public_html/peash/pos_print.php on line 320
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/pos_print.php on line 323
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/pos_print.php on line 323
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/pos_print.php on line 336
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/pos_print.php on line 348
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: payment in /home/faceso/public_html/peash/pos_print.php on line 348
+[06-Jun-2022 13:52:12 UTC] PHP Notice:  Undefined variable: balance in /home/faceso/public_html/peash/pos_print.php on line 351
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: subtotal in /home/faceso/public_html/peash/non_pad_print.php on line 319
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: discount in /home/faceso/public_html/peash/non_pad_print.php on line 325
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/non_pad_print.php on line 328
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/non_pad_print.php on line 328
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/non_pad_print.php on line 341
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/non_pad_print.php on line 352
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/non_pad_print.php on line 353
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: payment in /home/faceso/public_html/peash/non_pad_print.php on line 353
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: mode in /home/faceso/public_html/peash/non_pad_print.php on line 354
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: balance in /home/faceso/public_html/peash/non_pad_print.php on line 356
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/non_pad_print.php on line 380
+[06-Jun-2022 13:52:15 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/non_pad_print.php on line 380
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: subtotal in /home/faceso/public_html/peash/pos_print.php on line 314
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: discount in /home/faceso/public_html/peash/pos_print.php on line 320
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/pos_print.php on line 323
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/pos_print.php on line 323
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/pos_print.php on line 336
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/pos_print.php on line 348
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: payment in /home/faceso/public_html/peash/pos_print.php on line 348
+[06-Jun-2022 13:53:23 UTC] PHP Notice:  Undefined variable: balance in /home/faceso/public_html/peash/pos_print.php on line 351
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: subtotal in /home/faceso/public_html/peash/add_purchase_print.php on line 313
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: discount in /home/faceso/public_html/peash/add_purchase_print.php on line 319
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: tax in /home/faceso/public_html/peash/add_purchase_print.php on line 322
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: tax_dis in /home/faceso/public_html/peash/add_purchase_print.php on line 322
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/add_purchase_print.php on line 335
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: payable in /home/faceso/public_html/peash/add_purchase_print.php on line 345
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/add_purchase_print.php on line 346
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: payment in /home/faceso/public_html/peash/add_purchase_print.php on line 346
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: change in /home/faceso/public_html/peash/add_purchase_print.php on line 348
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: mode in /home/faceso/public_html/peash/add_purchase_print.php on line 352
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: mode in /home/faceso/public_html/peash/add_purchase_print.php on line 354
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: mode_value in /home/faceso/public_html/peash/add_purchase_print.php on line 355
+[07-Sep-2022 06:23:29 UTC] PHP Notice:  Undefined variable: balance in /home/faceso/public_html/peash/add_purchase_print.php on line 359
